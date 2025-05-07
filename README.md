@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-eu sou o Lucas Pereira, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+eu sou o Lucas Pereira, tenho 30 anos, aluno do Dev Club, atualmente estou aprendendo e criando projetos com:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
